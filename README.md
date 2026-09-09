@@ -1,5 +1,6 @@
 # Restaurant-Class
 Restaurant Class Assignment
+
 ##Restaurant.java
 Sets up the variables that can be defined in Main.java.
   String name - String variable because it's a non-numeric value
